@@ -17,6 +17,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-
-assete:
-  -assets/images/ui1.png
+  assets:
+    - assets/images/ui1.png
